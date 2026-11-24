@@ -1,0 +1,440 @@
+{
+  "mavic3t": {
+    "sounds": [
+      {
+        "name": "milmod:mavic3t",
+        "attenuation_distance": 112
+      }
+    ]
+  },
+  "fp1": {
+    "sounds": [
+      {
+        "name": "milmod:fp1",
+        "attenuation_distance": 112
+      }
+    ]
+  },
+  "forpost_r": {
+    "sounds": [
+      {
+        "name": "milmod:forpost_r",
+        "attenuation_distance": 112
+      }
+    ]
+  },
+  "mohajer_6": {
+    "sounds": [
+      {
+        "name": "milmod:mohajer_6",
+        "attenuation_distance": 112
+      }
+    ]
+  },
+  "orlan_10": {
+    "sounds": [
+      {
+        "name": "milmod:orlan_10",
+        "attenuation_distance": 112
+      }
+    ]
+  },
+  "lyutyi": {
+    "sounds": [
+      {
+        "name": "milmod:lyutyi",
+        "attenuation_distance": 112
+      }
+    ]
+  },
+  "geran4": {
+    "sounds": [
+      {
+        "name": "milmod:geran4",
+        "attenuation_distance": 112
+      }
+    ]
+  },
+  "shahed_238": {
+    "sounds": [
+      {
+        "name": "milmod:shahed_238",
+        "attenuation_distance": 112
+      }
+    ]
+  },
+  "l39_albatros": {
+    "sounds": [
+      {
+        "name": "milmod:l39_albatros",
+        "attenuation_distance": 112
+      }
+    ]
+  },
+  "buk_m3": {
+    "sounds": [
+      "milmod:buk_m3"
+    ]
+  },
+  "tor_m1": {
+    "sounds": [
+      "milmod:tor_m1"
+    ]
+  },
+  "m113": {
+    "sounds": [
+      "milmod:m113"
+    ]
+  },
+  "t64bv": {
+    "sounds": [
+      "milmod:t64bv"
+    ]
+  },
+  "gaz_tigr": {
+    "sounds": [
+      "milmod:gaz_tigr"
+    ]
+  },
+  "iskander_k": {
+    "sounds": [
+      "milmod:iskander_k"
+    ]
+  },
+  "beacon_marker": {
+    "sounds": [
+      "milmod:beacon_marker"
+    ]
+  },
+  "launcher": {
+    "sounds": [
+      "milmod:launcher"
+    ]
+  },
+  "fp1_ramp": {
+    "sounds": [
+      "milmod:fp1_ramp"
+    ]
+  },
+  "orlan_rail": {
+    "sounds": [
+      "milmod:orlan_rail"
+    ]
+  },
+  "attach": {
+    "sounds": [
+      "milmod:attach"
+    ]
+  },
+  "release": {
+    "sounds": [
+      "milmod:release"
+    ]
+  },
+  "damage": {
+    "sounds": [
+      "milmod:damage"
+    ]
+  },
+  "crash": {
+    "sounds": [
+      "milmod:crash"
+    ]
+  },
+  "start": {
+    "sounds": [
+      "milmod:start"
+    ]
+  },
+  "impact_blast": {
+    "subtitle": "subtitles.milmod.impact",
+    "sounds": [
+      "milmod:impact_blast"
+    ]
+  },
+  "orlan_10_launch": {
+    "sounds": [
+      "milmod:orlan_10_launch"
+    ]
+  },
+  "orlan_10_flyby": {
+    "sounds": [
+      "milmod:orlan_10_flyby"
+    ]
+  },
+  "orlan_10_failure": {
+    "sounds": [
+      "milmod:orlan_10_failure"
+    ]
+  },
+  "orlan_10_crash": {
+    "sounds": [
+      "milmod:orlan_10_crash"
+    ]
+  },
+  "fp1_launch": {
+    "sounds": [
+      "milmod:fp1_launch"
+    ]
+  },
+  "fp1_flyby": {
+    "sounds": [
+      "milmod:fp1_flyby"
+    ]
+  },
+  "fp1_failure": {
+    "sounds": [
+      "milmod:fp1_failure"
+    ]
+  },
+  "fp1_crash": {
+    "sounds": [
+      "milmod:fp1_crash"
+    ]
+  },
+  "geran4_launch": {
+    "sounds": [
+      "milmod:geran4_launch"
+    ]
+  },
+  "geran4_flyby": {
+    "sounds": [
+      "milmod:geran4_flyby"
+    ]
+  },
+  "geran4_failure": {
+    "sounds": [
+      "milmod:geran4_failure"
+    ]
+  },
+  "geran4_crash": {
+    "sounds": [
+      "milmod:geran4_crash"
+    ]
+  },
+  "shahed_238_launch": {
+    "sounds": [
+      "milmod:shahed_238_launch"
+    ]
+  },
+  "shahed_238_flyby": {
+    "sounds": [
+      "milmod:shahed_238_flyby"
+    ]
+  },
+  "shahed_238_failure": {
+    "sounds": [
+      "milmod:shahed_238_failure"
+    ]
+  },
+  "shahed_238_crash": {
+    "sounds": [
+      "milmod:shahed_238_crash"
+    ]
+  },
+  "mavic3t_launch": {
+    "sounds": [
+      "milmod:mavic3t_launch"
+    ]
+  },
+  "mavic3t_flyby": {
+    "sounds": [
+      "milmod:mavic3t_flyby"
+    ]
+  },
+  "mavic3t_failure": {
+    "sounds": [
+      "milmod:mavic3t_failure"
+    ]
+  },
+  "mavic3t_crash": {
+    "sounds": [
+      "milmod:mavic3t_crash"
+    ]
+  },
+  "forpost_r_launch": {
+    "sounds": [
+      "milmod:forpost_r_launch"
+    ]
+  },
+  "forpost_r_flyby": {
+    "sounds": [
+      "milmod:forpost_r_flyby"
+    ]
+  },
+  "forpost_r_failure": {
+    "sounds": [
+      "milmod:forpost_r_failure"
+    ]
+  },
+  "forpost_r_crash": {
+    "sounds": [
+      "milmod:forpost_r_crash"
+    ]
+  },
+  "mohajer_6_launch": {
+    "sounds": [
+      "milmod:mohajer_6_launch"
+    ]
+  },
+  "mohajer_6_flyby": {
+    "sounds": [
+      "milmod:mohajer_6_flyby"
+    ]
+  },
+  "mohajer_6_failure": {
+    "sounds": [
+      "milmod:mohajer_6_failure"
+    ]
+  },
+  "mohajer_6_crash": {
+    "sounds": [
+      "milmod:mohajer_6_crash"
+    ]
+  },
+  "lyutyi_launch": {
+    "sounds": [
+      "milmod:lyutyi_launch"
+    ]
+  },
+  "lyutyi_flyby": {
+    "sounds": [
+      "milmod:lyutyi_flyby"
+    ]
+  },
+  "lyutyi_failure": {
+    "sounds": [
+      "milmod:lyutyi_failure"
+    ]
+  },
+  "lyutyi_crash": {
+    "sounds": [
+      "milmod:lyutyi_crash"
+    ]
+  },
+  "l39_albatros_launch": {
+    "sounds": [
+      "milmod:l39_albatros_launch"
+    ]
+  },
+  "l39_albatros_flyby": {
+    "sounds": [
+      "milmod:l39_albatros_flyby"
+    ]
+  },
+  "l39_albatros_failure": {
+    "sounds": [
+      "milmod:l39_albatros_failure"
+    ]
+  },
+  "l39_albatros_crash": {
+    "sounds": [
+      "milmod:l39_albatros_crash"
+    ]
+  },
+  "explosion_crack": {
+    "sounds": [
+      "milmod:explosion_crack"
+    ]
+  },
+  "explosion_muffled": {
+    "sounds": [
+      "milmod:explosion_muffled"
+    ]
+  },
+  "glass_rattle": {
+    "sounds": [
+      "milmod:glass_rattle"
+    ]
+  },
+  "tinnitus": {
+    "sounds": [
+      "milmod:tinnitus"
+    ]
+  },
+  "heartbeat": {
+    "sounds": [
+      "milmod:heartbeat"
+    ]
+  },
+  "falling_whistle": {
+    "sounds": [
+      "milmod:falling_whistle"
+    ]
+  },
+  "engine_prop_detail": {
+    "sounds": [
+      "milmod:engine_prop_detail"
+    ]
+  },
+  "engine_jet_detail": {
+    "sounds": [
+      "milmod:engine_jet_detail"
+    ]
+  },
+  "starter_click": {
+    "sounds": [
+      "milmod:starter_click"
+    ]
+  },
+  "rail_latch": {
+    "sounds": [
+      "milmod:rail_latch"
+    ]
+  },
+  "tablet_click": {
+    "sounds": [
+      "milmod:tablet_click"
+    ]
+  },
+  "tablet_error": {
+    "sounds": [
+      "milmod:tablet_error"
+    ]
+  },
+  "mavic3t_texture_loop": {
+    "sounds": [
+      "milmod:mavic3t_texture_loop"
+    ]
+  },
+  "orlan_10_texture_loop": {
+    "sounds": [
+      "milmod:orlan_10_texture_loop"
+    ]
+  },
+  "forpost_r_texture_loop": {
+    "sounds": [
+      "milmod:forpost_r_texture_loop"
+    ]
+  },
+  "mohajer_6_texture_loop": {
+    "sounds": [
+      "milmod:mohajer_6_texture_loop"
+    ]
+  },
+  "lyutyi_texture_loop": {
+    "sounds": [
+      "milmod:lyutyi_texture_loop"
+    ]
+  },
+  "fp1_texture_loop": {
+    "sounds": [
+      "milmod:fp1_texture_loop"
+    ]
+  },
+  "shahed_238_texture_loop": {
+    "sounds": [
+      "milmod:shahed_238_texture_loop"
+    ]
+  },
+  "geran4_texture_loop": {
+    "sounds": [
+      "milmod:geran4_texture_loop"
+    ]
+  },
+  "l39_albatros_texture_loop": {
+    "sounds": [
+      "milmod:l39_albatros_texture_loop"
+    ]
+  }
+}

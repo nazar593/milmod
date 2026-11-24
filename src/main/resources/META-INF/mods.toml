@@ -1,0 +1,23 @@
+modLoader = "javafml"
+loaderVersion = "[47,48)"
+license = "All Rights Reserved"
+
+[[mods]]
+modId = "milmod"
+version = "${mod_version}"
+displayName = "MilMod"
+description = "A Forge mod for vehicles, drones and game physics."
+
+[[dependencies.milmod]]
+modId = "forge"
+mandatory = true
+versionRange = "[47.4.28,48)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.milmod]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,1.20.2)"
+ordering = "NONE"
+side = "BOTH"

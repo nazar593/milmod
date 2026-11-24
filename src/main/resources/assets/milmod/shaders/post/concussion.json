@@ -1,0 +1,9 @@
+{
+  "targets": ["milmod_swap"],
+  "passes": [
+    {"name":"blur","intarget":"minecraft:main","outtarget":"milmod_swap",
+     "uniforms":[{"name":"BlurDir","values":[1.0,0.0]},{"name":"Radius","values":[1.0]}]},
+    {"name":"blur","intarget":"milmod_swap","outtarget":"minecraft:main",
+     "uniforms":[{"name":"BlurDir","values":[0.0,1.0]},{"name":"Radius","values":[1.0]}]}
+  ]
+}

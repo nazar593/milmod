@@ -1,0 +1,188 @@
+{
+  "buk_m3": {
+    "source": "BUK_M3_Java_GeckoLib.zip",
+    "geometry": "sources/02_BUK_M3_Java_GeckoLib/buk_m3/assets/bukm3/geo/buk_m3.geo.json",
+    "texture": "sources/02_BUK_M3_Java_GeckoLib/buk_m3/assets/bukm3/textures/entity/buk_m3.png",
+    "dimensions_blocks": [
+      2.185,
+      5.967,
+      6.9
+    ]
+  },
+  "shahed_238": {
+    "source": "Shahed_238_Blockbench.zip",
+    "geometry": "sources/03_Shahed_238_Blockbench/shahed_238.geo.json",
+    "texture": "sources/03_Shahed_238_Blockbench/shahed_238.png",
+    "dimensions_blocks": [
+      2.563,
+      0.222,
+      2.5
+    ]
+  },
+  "m113": {
+    "source": "M113_Desert.bbmodel",
+    "geometry": "sources/04_M113_Desert/M113_Desert.bbmodel",
+    "texture": "sources/04_M113_Desert/M113_Desert.bbmodel#embedded",
+    "dimensions_blocks": [
+      2.491,
+      3.836,
+      4.3
+    ]
+  },
+  "tor_m1": {
+    "source": "Airfield_1.6.0.zip",
+    "geometry": "sources/23_Airfield_1.2.0/Airfield_1.2.0/Airfield_RP/models/entity/tor_m1.geo.json",
+    "texture": "sources/23_Airfield_1.2.0/Airfield_1.2.0/Airfield_RP/textures/entity/tor_m1.png",
+    "dimensions_blocks": [
+      3.522,
+      3.78,
+      5.8
+    ]
+  },
+  "iskander_k": {
+    "source": "Iskander_K(1).bbmodel",
+    "geometry": "tools/model_sources/iskander_k.bbmodel",
+    "texture": "sources/07_Iskander_K_1/Iskander_K(1).bbmodel#embedded",
+    "dimensions_blocks": [
+      2.539,
+      2.192,
+      7.5
+    ],
+    "generator": "tools/airframe_updates.py"
+  },
+  "beacon_marker": {
+    "source": "Air_PDA_Bedrock_v1.1.0.mcaddon",
+    "geometry": "sources/08_Air_PDA_Bedrock_v1.1.0/Air_PDA_RP/models/entity/beacon_marker.geo.json",
+    "texture": "sources/08_Air_PDA_Bedrock_v1.1.0/Air_PDA_RP/textures/entity/airpda_beacon_marker.png",
+    "dimensions_blocks": [
+      0.55,
+      0.288,
+      0.55
+    ]
+  },
+  "fp1": {
+    "source": "FP1_Bedrock_Models.zip",
+    "geometry": "tools/model_sources/fp1.geo.json",
+    "texture": "sources/12_FP1_Bedrock_Models/fp1.png",
+    "dimensions_blocks": [
+      3.586,
+      0.776,
+      2.8
+    ],
+    "generator": "tools/airframe_updates.py"
+  },
+  "launcher": {
+    "source": "Air_PDA_Bedrock_v1.1.0.mcaddon",
+    "geometry": "sources/08_Air_PDA_Bedrock_v1.1.0/Air_PDA_RP/models/entity/launcher.geo.json",
+    "texture": "sources/08_Air_PDA_Bedrock_v1.1.0/Air_PDA_RP/textures/entity/airpda_beacon_marker.png",
+    "dimensions_blocks": [
+      1.148,
+      0.908,
+      2.2
+    ]
+  },
+  "fp1_ramp": {
+    "source": "Original MilMod repaired visual mesh",
+    "generator": "tools/flight_assets.py"
+  },
+  "geran4": {
+    "source": "User-supplied Geran-4 geometry and texture",
+    "geometry": "tools/model_sources/geran4.geo.json",
+    "texture": "tools/model_sources/geran4.png",
+    "generator": "tools/geran4_assets.py",
+    "dimensions_blocks": [
+      3.002,
+      0.408,
+      2.9
+    ]
+  },
+  "mavic3t": {
+    "source": "Mavic3T_Bedrock_Model.zip",
+    "geometry": "sources/14_Mavic3T_Bedrock_Model/mavic3t.geo.json",
+    "texture": "sources/14_Mavic3T_Bedrock_Model/mavic3t.png",
+    "dimensions_blocks": [
+      1.016,
+      0.166,
+      0.85
+    ]
+  },
+  "forpost_r": {
+    "source": "Original MilMod visual mesh",
+    "visual_reference": [
+      "1000004754.jpg",
+      "1000004756.jpg",
+      "1000004758.jpg",
+      "1000004759.jpg",
+      "1000004760.jpg",
+      "1000004762.jpg",
+      "1000004764.jpg",
+      "1000004765.jpg",
+      "1000004767.jpg"
+    ],
+    "generator": "tools/forpost_visuals.py"
+  },
+  "gaz_tigr": {
+    "source": "Vehicle_Models_Bedrock.zip",
+    "geometry": "sources/28_Vehicle_Models_Bedrock/gaz_tigr/gaz_tigr.geo.json",
+    "texture": "sources/28_Vehicle_Models_Bedrock/gaz_tigr/gaz_tigr.png",
+    "dimensions_blocks": [
+      1.768,
+      2.144,
+      4.0
+    ]
+  },
+  "l39_albatros": {
+    "source": "Vehicle_Models_Bedrock.zip",
+    "geometry": "sources/28_Vehicle_Models_Bedrock/l39_albatros/l39_albatros.geo.json",
+    "texture": "sources/28_Vehicle_Models_Bedrock/l39_albatros/l39_albatros.png",
+    "dimensions_blocks": [
+      4.627,
+      1.718,
+      5.3
+    ]
+  },
+  "mohajer_6": {
+    "source": "Vehicle_Models_Bedrock.zip",
+    "geometry": "sources/28_Vehicle_Models_Bedrock/mohajer_6/mohajer_6.geo.json",
+    "texture": "sources/28_Vehicle_Models_Bedrock/mohajer_6/mohajer_6.png",
+    "dimensions_blocks": [
+      5.772,
+      1.691,
+      3.5
+    ]
+  },
+  "t64bv": {
+    "source": "Vehicle_Models_Bedrock.zip",
+    "geometry": "sources/28_Vehicle_Models_Bedrock/t64bv/t64bv.geo.json",
+    "texture": "sources/28_Vehicle_Models_Bedrock/t64bv/t64bv.png",
+    "dimensions_blocks": [
+      2.576,
+      3.542,
+      6.0
+    ]
+  },
+  "orlan_10": {
+    "source": "Original MilMod visual mesh",
+    "visual_reference": [
+      "1000004751.jpg",
+      "1000004752.mp4"
+    ],
+    "generator": "tools/reference_models.py"
+  },
+  "training_kab": {
+    "source": "Original MilMod item model",
+    "visual_reference": [
+      "1000004750.jpg"
+    ],
+    "generator": "tools/forpost_visuals.py"
+  },
+  "orlan_rail": {
+    "source": "Original MilMod repaired visual mesh",
+    "generator": "tools/flight_assets.py"
+  },
+  "lyutyi": {
+    "source": "Original MilMod game mesh",
+    "visual_reference": "User-supplied Minecraft walkaround (1000004834.mp4)",
+    "generator": "tools/lyutyi_visual.py"
+  }
+}

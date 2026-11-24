@@ -1,0 +1,8 @@
+{
+  "targets": ["milmod_mavic_swap"],
+  "passes": [
+    {"name": "milmod:mavic_mono", "intarget": "minecraft:main", "outtarget": "milmod_mavic_swap"},
+    {"name": "milmod:mavic_mono", "intarget": "milmod_mavic_swap", "outtarget": "minecraft:main",
+     "uniforms": [{"name": "Mono", "values": [0]}]}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "milmod:item/controller_body"
+  },
+  "textures": {
+    "particle": "milmod:item/palette"
+  },
+  "perspectives": {
+    "gui": {
+      "loader": "forge:item_layers",
+      "parent": "minecraft:item/generated",
+      "textures": {
+        "layer0": "milmod:item/controller"
+      }
+    }
+  }
+}

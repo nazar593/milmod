@@ -1,0 +1,38 @@
+{
+  "loader": "forge:separate_transforms",
+  "textures": {
+    "particle": "milmod:item/kab_materials"
+  },
+  "base": {
+    "loader": "forge:obj",
+    "model": "milmod:models/item/training_kab.obj",
+    "automatic_culling": false,
+    "textures": {
+      "color": "milmod:item/kab_materials",
+      "particle": "milmod:item/kab_materials"
+    },
+    "display": {
+      "ground": {
+        "translation": [
+          0,
+          3,
+          0
+        ],
+        "scale": [
+          0.5,
+          0.5,
+          0.5
+        ]
+      }
+    }
+  },
+  "perspectives": {
+    "gui": {
+      "loader": "forge:item_layers",
+      "parent": "minecraft:item/generated",
+      "textures": {
+        "layer0": "milmod:item/training_kab"
+      }
+    }
+  }
+}
